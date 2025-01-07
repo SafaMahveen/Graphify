@@ -233,7 +233,7 @@ root.geometry("600x500")
 root.configure(bg="#f0f8ff")  # Background color
 
 # Background image setup
-background_image = Image.open(r"./Graphify/DATA_VISUALIZE.png")  
+background_image = Image.open(r"../Graphify/DATA_VISUALIZE.png")  
 background_photo = ImageTk.PhotoImage(background_image)
 background_label = tk.Label(root, image=background_photo)
 background_label.place(relwidth=1, relheight=1)
