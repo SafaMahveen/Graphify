@@ -16,7 +16,7 @@ Author - Safa Mahveen
   - Scatter Plots
   - Box Plots
   - Heatmaps
-- **Intuitive Interface**: Easy navigation through a simple GUI.
+- **Intuitive Interface**: Easy navigation through a simple Graphical User Interface.
 ![Graphify Interface](GUI.png)
 ## Requirements
 
