@@ -17,7 +17,7 @@ Author - Safa Mahveen
   - Box Plots
   - Heatmaps
 - **Intuitive Interface**: Easy navigation through a simple GUI.
-
+![Graphify Interface](GUI.png)
 ## Requirements
 
 - Python 3.x
