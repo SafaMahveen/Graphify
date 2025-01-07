@@ -47,7 +47,7 @@ Author - Safa Mahveen
 Run the application using:
 
 ```bash
-python graphify.py
+python graphify_code.py
 ```
 
 Once the application is running, you can load a dataset and start visualizing your data!
